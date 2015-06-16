@@ -1,0 +1,12 @@
+e43b6b7646ccc26db3966bbcbd58f4b1 *DESCRIPTION
+b76a2920b88d983a1023a5b1024f5a48 *LICENSE
+efb2476e68b38235282f92fbcdc6ee20 *NAMESPACE
+aaab038a3c7e3f1b35580bd97cb7519f *R/bcrypt.R
+1064b6e7eba94c88ab031dda3fbd5823 *man/bcrypt.Rd
+08caaa983b1d53a60ab707522336e047 *src/bcrypt.c
+77f3928b61df8799bf46100975bba1ae *src/bcrypt_pbkdf.c
+39f99248aa74107ac660c1dcf26bc436 *src/bcrypt_r.c
+772f956876e17096575ecdd086e35206 *src/blowfish.c
+72b6c7ae1528cad436ab676e36a40fa0 *src/pybc_blf.h
+101e6afdf927fcb9b432d5a6201860b0 *src/pybc_sha2.h
+2a97d6674a5729abb6e7187213885fb5 *src/sha2.c
