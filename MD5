@@ -1,7 +1,7 @@
-8bdfa2273a603dbc4e6c7ac364abec3b *DESCRIPTION
+179b062882b678dc532f5f35e476026f *DESCRIPTION
 b76a2920b88d983a1023a5b1024f5a48 *LICENSE
 8619bdf899c31ea72a04be6c4488ebf9 *NAMESPACE
-196e9180252239e0dbf32875ef7218dd *NEWS
+6564d41bf44e7abb7d6a5ba7e338f924 *NEWS
 166234a3cfc5ee46610454d1f4a82689 *R/bcrypt.R
 f7e8b2552ca5ff65490eda0835d3500e *R/pbkdf.R
 00d59cff20d4803bd795112fc9577ac1 *inst/WORDLIST
@@ -13,7 +13,7 @@ c382510353f58c0854a18b51cf339d68 *src/bcrypt/bcrypt.c
 772f956876e17096575ecdd086e35206 *src/bcrypt/blowfish.c
 72b6c7ae1528cad436ab676e36a40fa0 *src/bcrypt/pybc_blf.h
 101e6afdf927fcb9b432d5a6201860b0 *src/bcrypt/pybc_sha2.h
-acf16b6d663e5e80120546f59d16e7b7 *src/bcrypt/sha2.c
+92517bd9e2b92ee658096019bee5bae6 *src/bcrypt/sha2.c
 27e95a2af29d13e471562e26049e536f *src/bcrypt_r.c
 5e995fc37b9e1f0149ac543c50d7cc9b *src/register.c
 bc882e5235bfdccc9e49f99290365b40 *tests/spelling.R
